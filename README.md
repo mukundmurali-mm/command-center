@@ -16,6 +16,7 @@ A personal command center — a locally-run wiki viewer for your Obsidian vault 
 - **GitHub Copilot CLI**: This application relies on the `copilot` CLI for AI organization. Ensure it is installed and authenticated.
   - Install via: `npm install -g @githubnext/copilot-cli` (or your preferred method).
   - Authenticate: `copilot auth`
+  - **💡 Local AI Tip**: For users who prefer local AI, you can run models via [Ollama](https://ollama.com/). To use a local model, you can modify the `runCopilot` function in `server/utils/aiEnhancer.js` to point to your local Ollama API endpoint.
 
 ## 📦 Installation
 
