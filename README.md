@@ -1,4 +1,4 @@
-# Momo
+# MoMo Command Center
 
 A personal command center — a locally-run wiki viewer for your Obsidian vault with AI-powered topic organization.
 
