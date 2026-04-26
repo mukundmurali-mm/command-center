@@ -9,7 +9,7 @@ export default function Dashboard({ vault }) {
   return (
     <div className="p-8 max-w-5xl mx-auto">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold mb-2">Welcome to Command Center</h1>
+        <h1 className="text-3xl font-bold mb-2">Welcome to Momo</h1>
         <p className="text-gray-500 dark:text-gray-400">Your personal knowledge hub, organized by AI.</p>
       </div>
 
