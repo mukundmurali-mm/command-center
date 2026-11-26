@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: "MoMo Command Center"
+  structure:
+    - type: space
+      key: space-command-center
+      title: "MoMo Command Center"
+      path: command-center
+      default: true
+      content:
+        directory: ./
